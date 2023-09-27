@@ -11,7 +11,7 @@ def partition(l, r, nums):
     return ptr
  
 <<<<<<< HEAD
-print("실험임니다")
+print("실험니다")
 =======
 안녕하세요
 >>>>>>> branch2
