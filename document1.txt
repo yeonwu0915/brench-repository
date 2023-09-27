@@ -23,6 +23,8 @@ def quicksort(l, r, nums):
         quicksort(l, pi-1, nums)  # Recursively sorting the left values
         quicksort(pi+1, r, nums)  # Recursively sorting the right values
     return nums
+
+print("branch1")
  
  
 example = [4, 5, 6, 7, 3]
